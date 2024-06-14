@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Preview](.socialCard\blog-preview-card-main\screenshots\desktop-preview.png)
-![Mobile Preview](.socialCard\blog-preview-card-main\screenshots\mobile-preview.png)
-![Active](.socialCard\blog-preview-card-main\screenshots\desktop-active.png)
+![Desktop Preview](socialCard\blog-preview-card-main\screenshots\desktop-preview.png)
+![Mobile Preview](socialCard\blog-preview-card-main\screenshots\mobile-preview.png)
+![Active](socialCard\blog-preview-card-main\screenshots\desktop-active.png)
 
 
 ### Built with
